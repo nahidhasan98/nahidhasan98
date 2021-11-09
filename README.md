@@ -12,7 +12,7 @@ A graduate fresher learning technologies continuously with the aims to become a 
 
 
 - :innocent: I Love Challenges. Passionate to solve new problems.
-- :heart_eyes: Favorite Programming Language is Go.
+- :heart_eyes: Favorite Programming Languages: Go.
 - :smile: Pronouns: Achromatic.
 - ⚡ Fun fact: Have a little degree in Medical Science.
 - 📫 How to reach me: mnh.nahid35@gmail.com.
