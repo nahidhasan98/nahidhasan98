@@ -8,7 +8,7 @@ A graduate fresher learning technologies continuously with the aims to become a 
 [![Linkedin Badge](https://img.shields.io/badge/-nahidhasan98-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahidhasan98)
 [![Facebook Badge](https://img.shields.io/badge/-Nahid_Hasan-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://facebook.com/nahid.achromatic98)
 [![Mail Badge](https://img.shields.io/badge/-mnh.nahid35-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mnh.nahid35@gmail.com)
-[![Codeforces Badge](https://img.shields.io/badge/-nahidhasan98-fad15b?style=flat&labelColor=fad15b&logo=codeforces&logoColor=white)](https://codeforces.com/nahidhasan98)
+[![Codeforces Badge](https://img.shields.io/badge/-nahidhasan98-fad15b?style=flat&labelColor=fad15b&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nahidhasan98)
 
 
 - :innocent: I Love Challenges. Passionate to solve new problems.
