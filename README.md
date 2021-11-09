@@ -3,7 +3,7 @@
 A graduate fresher learning technologies continuously with the aims to become a software engineer. Back End attracts me more. Highly interested to build careers as a Golang developer.
 
 
-:mailbox: Reach me out!
+🗨️ Talk with me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-nahidhasan98-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahidhasan98)
 [![Facebook Badge](https://img.shields.io/badge/-Nahid_Hasan-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://facebook.com/nahid.achromatic98)
