@@ -45,6 +45,19 @@ A graduate fresher learning technologies continuously with the aims to become a 
 ![PostgreSQL Badge](https://img.shields.io/badge/-postgresql-336791?style=for-the-badge&labelColor=0b0b0b&logo=postgresql&logoColor=336791)
 ![Couchbase Badge](https://img.shields.io/badge/-couchbase-c6292d?style=for-the-badge&labelColor=0b0b0b&logo=couchbase&logoColor=c6292d)
 
+
+### Tools
+
+<img align="left" alt="windows" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
+<img align="left" alt="ubuntu" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
+<img align="left" alt="visual-studio-code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="postman" width="30px" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" />
+<img align="left" alt="git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+
+
 ---
   
 ## Top Languages
