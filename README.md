@@ -56,15 +56,15 @@ A graduate fresher learning technologies continuously with the aims to become a 
 <img align="left" alt="terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
+<br />
 
 ---
   
-## Top Languages
+### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhasan98&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/nahidhasan98?tab=repositories)
 
 
-## Github Stats
+### Github Stats
 
 [![Nahid Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidhasan98&show_icons=true&hide=&theme=tokyonight)](https://github.com/nahidhasan98?tab=repositories)
