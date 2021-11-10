@@ -11,8 +11,9 @@ A graduate fresher learning technologies continuously with the aims to become a 
 [![Codeforces Badge](https://img.shields.io/badge/-nahidhasan98-fad15b?style=flat&labelColor=fad15b&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nahidhasan98)
 
 
-- :innocent: I Love Challenges. Passionate to solve new problems.
+- :innocent: I love challenges. Passionate to solve new problems.
 - :heart_eyes: Favorite Programming Languages: Go.
+- 🌱 I’m currently learning: Microservices with Go.
 - :smile: Pronouns: Achromatic.
 - ⚡ Fun fact: Have a little degree in Medical Science.
 - 📫 How to reach me: mnh.nahid35@gmail.com.
