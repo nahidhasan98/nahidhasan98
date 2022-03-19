@@ -80,7 +80,7 @@ A graduate fresher learning technologies continuously with the aims to become a 
         <tr>
             <td>
                 <a href="https://github.com/nahidhasan98?tab=repositories">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhasan98&layout=compact&theme=tokyonight&langs_count=8" style="height:195px;">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhasan98&layout=compact&theme=tokyonight&langs_count=8" style="height:193px;">
                 </a>
             </td>
             <td>
