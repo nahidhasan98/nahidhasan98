@@ -61,11 +61,33 @@ A graduate fresher learning technologies continuously with the aims to become a 
 
 ---
   
-### Top Languages
+<!-- ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhasan98&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/nahidhasan98?tab=repositories)
 
 
 ### Github Stats
 
-[![Nahid Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidhasan98&show_icons=true&hide=&theme=tokyonight)](https://github.com/nahidhasan98?tab=repositories)
+[![Nahid Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidhasan98&show_icons=true&hide=&theme=tokyonight)](https://github.com/nahidhasan98?tab=repositories) -->
+
+
+<p align="center">
+    <table>
+        <tr>
+            <th>Top Languages</th>
+            <th>Github Stats</th>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/nahidhasan98?tab=repositories">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhasan98&layout=compact&theme=tokyonight&langs_count=6" style="height:195px;">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/nahidhasan98?tab=repositories">
+                    <img src="https://github-readme-stats.vercel.app/api?username=nahidhasan98&show_icons=true&hide=&theme=tokyonight">
+                </a>
+            </td>
+        </tr>
+    </table>
+</p>
